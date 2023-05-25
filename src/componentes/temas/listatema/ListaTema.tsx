@@ -14,7 +14,7 @@ function ListaTema() {
 
   useEffect(()=>{
     if(token ==""){
-      alert("Você precisa estar logado")
+      alert(" Ops você precisa estar logado")
       navigate("/login")
     }
   }, [token])
