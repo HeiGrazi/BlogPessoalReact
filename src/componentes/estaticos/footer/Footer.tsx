@@ -16,10 +16,10 @@ function Footer() {
                             <Typography variant="h5" align="center" gutterBottom className='textos'>Siga-me nas redes sociais </Typography>
                         </Box>
                         <Box display="flex" alignItems="center" justifyContent="center">
-                            <a href="" target="_blank">
+                            <a href="https://github.com/HeiGrazi" target="_blank">
                                 <GitHubIcon className='redes'/>
                             </a>
-                            <a href="" target="_blank">
+                            <a href="https://www.linkedin.com/in/graziella-santos-9b31aa199/" target="_blank">
                                 <LinkedInIcon className='redes'/>
                             </a>
                         </Box>
